@@ -24,5 +24,5 @@ Follow the steps below to clone and set up the project locally.
 Step 1: Clone the Repository
 bash
 ```
-git clone https://github.com/your-username/job-portal.git
-cd job-portal
+git clone https://github.com/your-username/jobJobHunt.git
+cd jobHunt
