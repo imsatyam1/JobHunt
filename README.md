@@ -77,7 +77,7 @@ The frontend will run on http://localhost:5173.
 
 ## How to Use
 
-Sign Up/Login: Users can create an account or log in to access their profiles and apply for jobs.
-Post Jobs: Employers can log in and post job listings through the dashboard.
-Search Jobs: Users can search for job opportunities based on keywords, location, and job type.
-Apply for Jobs: Users can apply for jobs by submitting their resumes and profile details.
++ Sign Up/Login: Users can create an account or log in to access their profiles and apply for jobs.
++ Post Jobs: Employers can log in and post job listings through the dashboard.
++ Search Jobs: Users can search for job opportunities based on keywords, location, and job type.
++ Apply for Jobs: Users can apply for jobs by submitting their resumes and profile details.
