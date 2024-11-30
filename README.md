@@ -1,6 +1,4 @@
 # JobHunt
-JobHunt is a modern, full-stack web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) to streamline the hiring process for employers and job seekers.
-
 The Job Portal is a full-stack web application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). The platform allows users to create profiles, search for job listings, and apply to jobs. Employers can post job openings and manage applications. 
 
 ## The project includes the following key features:
