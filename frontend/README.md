@@ -2,19 +2,18 @@
 
 ## Navigate to the frontend folder.
 
-bash
 ```
 cd frontend
 ```
 
 ## Install the required dependencies.
-bash
+
 ```
 npm install
 ```
 
 Start the frontend server.
-bash
+
 ```
 npm run dev
 ```
